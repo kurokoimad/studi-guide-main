@@ -22,3 +22,4 @@ Weitere Aufgaben:
 - Jeder: Bildquellen im Impressum
 - Jeder: Alle Seiten kontrollieren/korrigieren
 - Jeder: W3C Validator
+
